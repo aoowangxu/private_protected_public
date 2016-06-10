@@ -1,1 +1,1 @@
-# private_protected_public
+# inherit_arrtibute
